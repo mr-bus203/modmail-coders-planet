@@ -1,0 +1,31 @@
+{
+  "name": "discord-modmail-bot",
+  "version": "1.0.0",
+  "description": "A professional Discord modmail bot for server management",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/deploy-commands.js && node src/index.js",
+    "dev": "nodemon src/index.js",
+    "deploy": "node src/deploy-commands.js",
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "modmail",
+    "support"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "mongoose": "^8.0.1", 
+    "moment": "^2.29.4",
+    "winston": "^3.11.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.54.0",
+    "nodemon": "^3.0.1"
+  }
+} 

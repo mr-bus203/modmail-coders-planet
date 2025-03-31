@@ -1,0 +1,18 @@
+[2025-03-18 04:55:59] error: Error executing command setup: interaction.deferReply is not a function
+[2025-03-18 05:37:33] error: Error logging in to Discord: An invalid token was provided.
+[2025-03-18 05:38:33] error: Error logging in to Discord: An invalid token was provided.
+[2025-03-18 06:05:04] error: Error closing ticket: Ticket validation failed: closedBy: Cast to string failed for value "{ id: '1032354501950185632', tag: 'cupid_6.9' }" (type Object) at path "closedBy"
+[2025-03-18 06:05:30] error: Error closing ticket: Ticket validation failed: closedBy: Cast to string failed for value "{ id: '1032354501950185632', tag: 'cupid_6.9' }" (type Object) at path "closedBy"
+[2025-03-18 06:05:44] error: Guild or channel not found for ticket 67d8aca82fc470134348354d
+[2025-03-18 06:23:53] error: Error setting staff role: Interaction has already been acknowledged.
+[2025-03-18 06:23:53] error: Error handling modal submission: The reply to this interaction has already been sent or deferred.
+[2025-03-18 06:23:53] error: Error handling modal submission modal_staff_role: The reply to this interaction has already been sent or deferred.
+[2025-03-18 06:39:56] error: Error closing ticket: Ticket validation failed: closedBy: Cast to string failed for value "{ id: '1077872684781805569', tag: 'izzy_6.9' }" (type Object) at path "closedBy"
+[2025-03-18 06:39:56] error: Unhandled promise rejection: Interaction has already been acknowledged.
+[2025-03-18 06:41:19] error: Error handling close confirmation: Interaction has already been acknowledged.
+[2025-03-18 06:41:22] error: Error closing ticket: logChannel is not defined
+[2025-03-18 06:43:05] error: Error handling close confirmation: Interaction has already been acknowledged.
+[2025-03-18 06:46:31] error: Error updating confirmation message: Interaction has already been acknowledged.
+[2025-03-18 06:48:22] error: Error updating confirmation message: Interaction has already been acknowledged.
+[2025-03-18 06:50:38] error: Failed to disable buttons: Unknown interaction
+[2025-03-18 06:53:00] error: Failed to disable buttons: Interaction has already been acknowledged.

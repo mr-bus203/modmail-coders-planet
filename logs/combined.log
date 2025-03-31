@@ -1,0 +1,482 @@
+[2025-03-18 04:55:16] info: Connected to MongoDB database!
+[2025-03-18 04:55:18] info: Ready! Logged in as Coders Planet#5171
+[2025-03-18 04:55:18] info: ModMail bot created by Izzy | Coders Planet
+[2025-03-18 04:55:59] error: Error executing command setup: interaction.deferReply is not a function
+[2025-03-18 04:59:06] info: Loaded command: close
+[2025-03-18 04:59:06] info: Loaded command: help
+[2025-03-18 04:59:06] info: Loaded command: setup
+[2025-03-18 04:59:06] info: Loaded command: stats
+[2025-03-18 04:59:07] info: Connected to MongoDB database for command deployment
+[2025-03-18 04:59:07] info: No configured guilds found. Commands will be registered globally.
+[2025-03-18 04:59:07] info: Resetting global commands
+[2025-03-18 04:59:07] info: Successfully reset global commands
+[2025-03-18 04:59:08] info: Successfully registered application commands globally.
+[2025-03-18 04:59:08] info: Disconnected from MongoDB database after command deployment
+[2025-03-18 04:59:26] info: Loaded command: close
+[2025-03-18 04:59:26] info: Loaded command: help
+[2025-03-18 04:59:26] info: Loaded command: setup
+[2025-03-18 04:59:26] info: Loaded command: stats
+[2025-03-18 04:59:26] info: Connected to MongoDB database for command deployment
+[2025-03-18 04:59:26] info: No configured guilds found. Commands will be registered globally.
+[2025-03-18 04:59:26] info: Resetting global commands
+[2025-03-18 04:59:54] info: Loaded command: close
+[2025-03-18 04:59:54] info: Loaded command: help
+[2025-03-18 04:59:54] info: Loaded command: setup
+[2025-03-18 04:59:54] info: Loaded command: stats
+[2025-03-18 04:59:54] info: Connected to MongoDB database for command deployment
+[2025-03-18 04:59:54] info: No configured guilds found. Commands will be registered globally.
+[2025-03-18 04:59:54] info: Resetting global commands
+[2025-03-18 04:59:55] info: Successfully reset global commands
+[2025-03-18 05:00:38] info: Successfully registered application commands globally.
+[2025-03-18 05:00:38] info: Disconnected from MongoDB database after command deployment
+[2025-03-18 05:00:40] info: Connected to MongoDB database!
+[2025-03-18 05:00:41] info: Bot logged in successfully!
+[2025-03-18 05:00:41] info: Ready! Logged in as Coders Planet#5171
+[2025-03-18 05:00:41] info: ModMail bot created by Izzy | Coders Planet
+[2025-03-18 05:00:52] info: Attempting graceful shutdown...
+[2025-03-18 05:00:52] info: Disconnected from Discord
+[2025-03-18 05:00:52] info: Disconnected from MongoDB
+[2025-03-18 05:00:57] info: Loaded command: close
+[2025-03-18 05:00:57] info: Loaded command: help
+[2025-03-18 05:00:57] info: Loaded command: setup
+[2025-03-18 05:00:57] info: Loaded command: stats
+[2025-03-18 05:00:57] info: Connected to MongoDB database for command deployment
+[2025-03-18 05:00:57] info: No configured guilds found. Commands will be registered globally.
+[2025-03-18 05:00:57] info: Resetting global commands
+[2025-03-18 05:00:58] info: Successfully reset global commands
+[2025-03-18 05:01:15] info: Loaded command: close
+[2025-03-18 05:01:15] info: Loaded command: help
+[2025-03-18 05:01:15] info: Loaded command: setup
+[2025-03-18 05:01:15] info: Loaded command: stats
+[2025-03-18 05:01:15] info: Connected to MongoDB database for command deployment
+[2025-03-18 05:01:15] info: No configured guilds found. Commands will be registered globally.
+[2025-03-18 05:01:15] info: Resetting global commands
+[2025-03-18 05:01:16] info: Successfully reset global commands
+[2025-03-18 05:02:09] info: Successfully registered application commands globally.
+[2025-03-18 05:02:10] info: Connected to MongoDB database!
+[2025-03-18 05:02:12] info: Ready! Logged in as Coders Planet#5171
+[2025-03-18 05:02:12] info: ModMail bot created by Izzy | Coders Planet
+[2025-03-18 05:05:35] info: Loaded command: close
+[2025-03-18 05:05:35] info: Loaded command: help
+[2025-03-18 05:05:35] info: Loaded command: setup
+[2025-03-18 05:05:35] info: Loaded command: stats
+[2025-03-18 05:05:36] info: Started refreshing 4 application (/) commands...
+[2025-03-18 05:05:36] info: Successfully reloaded 4 application (/) commands.
+[2025-03-18 05:05:38] info: Connected to MongoDB database!
+[2025-03-18 05:05:38] info: Auto-deploying commands on startup...
+[2025-03-18 05:05:38] info: Loaded command: close
+[2025-03-18 05:05:38] info: Loaded command: help
+[2025-03-18 05:05:38] info: Loaded command: setup
+[2025-03-18 05:05:38] info: Loaded command: stats
+[2025-03-18 05:05:39] info: Started refreshing 4 application (/) commands...
+[2025-03-18 05:05:39] info: Successfully reloaded 4 application (/) commands.
+[2025-03-18 05:05:39] info: Command deployment completed: 4 commands added, 0 commands removed
+[2025-03-18 05:05:40] info: Ready! Logged in as Coders Planet#5171
+[2025-03-18 05:05:40] info: ModMail bot created by Izzy | Coders Planet
+[2025-03-18 05:06:38] info: ModMail setup completed by cupid_6.9 (1032354501950185632) in guild test box (1349023067254554654)
+[2025-03-18 05:06:56] info: New ticket created by cupid_6.9 (1032354501950185632) in guild test box (1349023067254554654)
+[2025-03-18 05:13:29] info: Ticket 67d8ab0f2fc4701343483534 closed by cupid_6.9 (1032354501950185632)
+[2025-03-18 05:13:46] info: New ticket created by cupid_6.9 (1032354501950185632) in guild test box (1349023067254554654)
+[2025-03-18 05:24:30] info: Loaded command: close
+[2025-03-18 05:24:30] info: Loaded command: help
+[2025-03-18 05:24:30] info: Loaded command: setup
+[2025-03-18 05:24:30] info: Loaded command: stats
+[2025-03-18 05:24:30] info: Started refreshing 4 application (/) commands...
+[2025-03-18 05:24:31] info: Successfully reloaded 4 application (/) commands.
+[2025-03-18 05:24:50] info: Loaded command: close
+[2025-03-18 05:24:50] info: Loaded command: help
+[2025-03-18 05:24:50] info: Loaded command: setup
+[2025-03-18 05:24:50] info: Loaded command: stats
+[2025-03-18 05:24:51] info: Started refreshing 4 application (/) commands...
+[2025-03-18 05:24:51] info: Successfully reloaded 4 application (/) commands.
+[2025-03-18 05:37:30] info: Loaded command: autoclose
+[2025-03-18 05:37:30] info: Loaded command: close
+[2025-03-18 05:37:30] info: Loaded command: customize
+[2025-03-18 05:37:30] info: Loaded command: help
+[2025-03-18 05:37:30] info: Loaded command: setup
+[2025-03-18 05:37:30] info: Loaded command: stats
+[2025-03-18 05:37:30] info: Started refreshing 6 application (/) commands...
+[2025-03-18 05:37:31] info: Successfully reloaded 6 application (/) commands.
+[2025-03-18 05:37:33] info: Loaded command: autoclose
+[2025-03-18 05:37:33] info: Loaded command: close
+[2025-03-18 05:37:33] info: Loaded command: customize
+[2025-03-18 05:37:33] info: Loaded command: help
+[2025-03-18 05:37:33] info: Loaded command: setup
+[2025-03-18 05:37:33] info: Loaded command: stats
+[2025-03-18 05:37:33] info: Loaded event: interactionCreate
+[2025-03-18 05:37:33] info: Loaded event: messageCreate
+[2025-03-18 05:37:33] info: Loaded event: ready
+[2025-03-18 05:37:33] info: Connected to MongoDB
+[2025-03-18 05:37:33] info: Auto-deploying commands on startup...
+[2025-03-18 05:37:33] info: Loaded command: autoclose
+[2025-03-18 05:37:33] info: Loaded command: close
+[2025-03-18 05:37:33] info: Loaded command: customize
+[2025-03-18 05:37:33] info: Loaded command: help
+[2025-03-18 05:37:33] info: Loaded command: setup
+[2025-03-18 05:37:33] info: Loaded command: stats
+[2025-03-18 05:37:33] error: Error logging in to Discord: An invalid token was provided.
+[2025-03-18 05:37:34] info: Started refreshing 6 application (/) commands...
+[2025-03-18 05:37:34] info: Successfully reloaded 6 application (/) commands.
+[2025-03-18 05:37:34] info: Command deployment completed: 6 commands added, 0 commands removed
+[2025-03-18 05:37:48] info: Loaded command: autoclose
+[2025-03-18 05:37:48] info: Loaded command: close
+[2025-03-18 05:37:48] info: Loaded command: customize
+[2025-03-18 05:37:48] info: Loaded command: help
+[2025-03-18 05:37:48] info: Loaded command: setup
+[2025-03-18 05:37:48] info: Loaded command: stats
+[2025-03-18 05:37:49] info: Started refreshing 6 application (/) commands...
+[2025-03-18 05:38:32] info: Successfully reloaded 6 application (/) commands.
+[2025-03-18 05:38:33] info: Loaded command: autoclose
+[2025-03-18 05:38:33] info: Loaded command: close
+[2025-03-18 05:38:33] info: Loaded command: customize
+[2025-03-18 05:38:33] info: Loaded command: help
+[2025-03-18 05:38:33] info: Loaded command: setup
+[2025-03-18 05:38:33] info: Loaded command: stats
+[2025-03-18 05:38:33] info: Loaded event: interactionCreate
+[2025-03-18 05:38:33] info: Loaded event: messageCreate
+[2025-03-18 05:38:33] info: Loaded event: ready
+[2025-03-18 05:38:33] info: Connected to MongoDB
+[2025-03-18 05:38:33] info: Auto-deploying commands on startup...
+[2025-03-18 05:38:33] info: Loaded command: autoclose
+[2025-03-18 05:38:33] info: Loaded command: close
+[2025-03-18 05:38:33] info: Loaded command: customize
+[2025-03-18 05:38:33] info: Loaded command: help
+[2025-03-18 05:38:33] info: Loaded command: setup
+[2025-03-18 05:38:33] info: Loaded command: stats
+[2025-03-18 05:38:33] error: Error logging in to Discord: An invalid token was provided.
+[2025-03-18 05:38:34] info: Started refreshing 6 application (/) commands...
+[2025-03-18 05:38:34] info: Successfully reloaded 6 application (/) commands.
+[2025-03-18 05:38:34] info: Command deployment completed: 6 commands added, 0 commands removed
+[2025-03-18 05:57:25] info: Loaded command: close
+[2025-03-18 05:57:25] info: Loaded command: help
+[2025-03-18 05:57:25] info: Loaded command: setup
+[2025-03-18 05:57:25] info: Loaded command: stats
+[2025-03-18 05:57:26] info: Removing obsolete command: autoclose
+[2025-03-18 05:57:26] info: Removing obsolete command: customize
+[2025-03-18 05:57:27] info: Started refreshing 4 application (/) commands...
+[2025-03-18 05:57:27] info: Successfully reloaded 4 application (/) commands.
+[2025-03-18 05:57:29] info: Connected to MongoDB database!
+[2025-03-18 05:57:29] info: Auto-deploying commands on startup...
+[2025-03-18 05:57:29] info: Loaded command: close
+[2025-03-18 05:57:29] info: Loaded command: help
+[2025-03-18 05:57:29] info: Loaded command: setup
+[2025-03-18 05:57:29] info: Loaded command: stats
+[2025-03-18 05:57:30] info: Started refreshing 4 application (/) commands...
+[2025-03-18 05:57:31] info: Successfully reloaded 4 application (/) commands.
+[2025-03-18 05:57:31] info: Command deployment completed: 4 commands added, 0 commands removed
+[2025-03-18 05:57:31] info: Logged in as Coders Planet#5171
+[2025-03-18 05:57:31] info: Auto-close check scheduled to run every 1 hour(s)
+[2025-03-18 05:57:31] info: Ready! Logged in as Coders Planet#5171
+[2025-03-18 05:57:31] info: ModMail bot created by Izzy | Coders Planet
+[2025-03-18 06:01:12] info: Loaded command: close
+[2025-03-18 06:01:12] info: Loaded command: help
+[2025-03-18 06:01:12] info: Loaded command: setup
+[2025-03-18 06:01:12] info: Loaded command: stats
+[2025-03-18 06:01:13] info: Started refreshing 4 application (/) commands...
+[2025-03-18 06:01:14] info: Successfully reloaded 4 application (/) commands.
+[2025-03-18 06:01:16] info: Connected to MongoDB database!
+[2025-03-18 06:01:16] info: Auto-deploying commands on startup...
+[2025-03-18 06:01:16] info: Loaded command: close
+[2025-03-18 06:01:16] info: Loaded command: help
+[2025-03-18 06:01:16] info: Loaded command: setup
+[2025-03-18 06:01:16] info: Loaded command: stats
+[2025-03-18 06:01:17] info: Started refreshing 4 application (/) commands...
+[2025-03-18 06:01:18] info: Successfully reloaded 4 application (/) commands.
+[2025-03-18 06:01:18] info: Command deployment completed: 4 commands added, 0 commands removed
+[2025-03-18 06:01:19] info: Logged in as Coders Planet#5171
+[2025-03-18 06:01:19] info: Auto-close check scheduled to run every 1 hour(s)
+[2025-03-18 06:01:19] info: Ready! Logged in as Coders Planet#5171
+[2025-03-18 06:01:19] info: ModMail bot created by Izzy | Coders Planet
+[2025-03-18 06:02:22] info: Updated setting settings.tickets.pingStaff for guild 1349023067254554654
+[2025-03-18 06:02:38] info: Updated setting settings.tickets.requireTopic for guild 1349023067254554654
+[2025-03-18 06:05:04] error: Error closing ticket: Ticket validation failed: closedBy: Cast to string failed for value "{ id: '1032354501950185632', tag: 'cupid_6.9' }" (type Object) at path "closedBy"
+[2025-03-18 06:05:30] error: Error closing ticket: Ticket validation failed: closedBy: Cast to string failed for value "{ id: '1032354501950185632', tag: 'cupid_6.9' }" (type Object) at path "closedBy"
+[2025-03-18 06:05:44] error: Guild or channel not found for ticket 67d8aca82fc470134348354d
+[2025-03-18 06:08:30] info: Loaded command: close
+[2025-03-18 06:08:30] info: Loaded command: help
+[2025-03-18 06:08:30] info: Loaded command: setup
+[2025-03-18 06:08:30] info: Loaded command: stats
+[2025-03-18 06:08:31] info: Started refreshing 4 application (/) commands...
+[2025-03-18 06:08:31] info: Successfully reloaded 4 application (/) commands.
+[2025-03-18 06:08:33] info: Connected to MongoDB database!
+[2025-03-18 06:08:33] info: Auto-deploying commands on startup...
+[2025-03-18 06:08:33] info: Loaded command: close
+[2025-03-18 06:08:33] info: Loaded command: help
+[2025-03-18 06:08:33] info: Loaded command: setup
+[2025-03-18 06:08:33] info: Loaded command: stats
+[2025-03-18 06:08:34] info: Started refreshing 4 application (/) commands...
+[2025-03-18 06:08:35] info: Logged in as Coders Planet#5171
+[2025-03-18 06:08:35] info: Auto-close check scheduled to run every 1 hour(s)
+[2025-03-18 06:08:35] info: Orphaned ticket cleanup scheduled to run every 2 hour(s)
+[2025-03-18 06:08:35] info: Ready! Logged in as Coders Planet#5171
+[2025-03-18 06:08:35] info: ModMail bot created by Izzy | Coders Planet
+[2025-03-18 06:08:35] info: Successfully reloaded 4 application (/) commands.
+[2025-03-18 06:08:35] info: Command deployment completed: 4 commands added, 0 commands removed
+[2025-03-18 06:15:27] info: Loaded command: close
+[2025-03-18 06:15:27] info: Loaded command: help
+[2025-03-18 06:15:27] info: Loaded command: setup
+[2025-03-18 06:15:27] info: Loaded command: stats
+[2025-03-18 06:15:28] info: Started refreshing 4 application (/) commands...
+[2025-03-18 06:15:29] info: Successfully reloaded 4 application (/) commands.
+[2025-03-18 06:15:31] info: Connected to MongoDB database!
+[2025-03-18 06:15:31] info: Auto-deploying commands on startup...
+[2025-03-18 06:15:31] info: Loaded command: close
+[2025-03-18 06:15:31] info: Loaded command: help
+[2025-03-18 06:15:31] info: Loaded command: setup
+[2025-03-18 06:15:31] info: Loaded command: stats
+[2025-03-18 06:15:31] info: Started refreshing 4 application (/) commands...
+[2025-03-18 06:15:32] info: Successfully reloaded 4 application (/) commands.
+[2025-03-18 06:15:32] info: Command deployment completed: 4 commands added, 0 commands removed
+[2025-03-18 06:15:32] info: Logged in as Coders Planet#5171
+[2025-03-18 06:15:32] info: Auto-close check scheduled to run every 1 hour(s)
+[2025-03-18 06:15:32] info: Orphaned ticket cleanup scheduled to run every 2 hour(s)
+[2025-03-18 06:15:32] info: Ready! Logged in as Coders Planet#5171
+[2025-03-18 06:15:32] info: ModMail bot created by Izzy | Coders Planet
+[2025-03-18 06:17:57] info: Loaded command: close
+[2025-03-18 06:17:57] info: Loaded command: help
+[2025-03-18 06:17:57] info: Loaded command: setup
+[2025-03-18 06:17:57] info: Loaded command: stats
+[2025-03-18 06:17:57] info: Started refreshing 4 application (/) commands...
+[2025-03-18 06:17:58] info: Successfully reloaded 4 application (/) commands.
+[2025-03-18 06:18:00] info: Connected to MongoDB database!
+[2025-03-18 06:18:00] info: Auto-deploying commands on startup...
+[2025-03-18 06:18:00] info: Loaded command: close
+[2025-03-18 06:18:00] info: Loaded command: help
+[2025-03-18 06:18:00] info: Loaded command: setup
+[2025-03-18 06:18:00] info: Loaded command: stats
+[2025-03-18 06:18:01] info: Started refreshing 4 application (/) commands...
+[2025-03-18 06:18:01] info: Successfully reloaded 4 application (/) commands.
+[2025-03-18 06:18:01] info: Command deployment completed: 4 commands added, 0 commands removed
+[2025-03-18 06:18:02] info: Logged in as Coders Planet#5171
+[2025-03-18 06:18:02] info: Auto-close check scheduled to run every 1 hour(s)
+[2025-03-18 06:18:02] info: Orphaned ticket cleanup scheduled to run every 2 hour(s)
+[2025-03-18 06:18:02] info: Ready! Logged in as Coders Planet#5171
+[2025-03-18 06:18:02] info: ModMail bot created by Izzy | Coders Planet
+[2025-03-18 06:18:07] info: New ticket created by izzy_6.9 (1077872684781805569) in guild test box (1349023067254554654)
+[2025-03-18 06:23:23] info: Loaded command: close
+[2025-03-18 06:23:23] info: Loaded command: help
+[2025-03-18 06:23:23] info: Loaded command: setup
+[2025-03-18 06:23:23] info: Loaded command: stats
+[2025-03-18 06:23:24] info: Started refreshing 4 application (/) commands...
+[2025-03-18 06:23:24] info: Successfully reloaded 4 application (/) commands.
+[2025-03-18 06:23:26] info: Connected to MongoDB database!
+[2025-03-18 06:23:26] info: Auto-deploying commands on startup...
+[2025-03-18 06:23:26] info: Loaded command: close
+[2025-03-18 06:23:26] info: Loaded command: help
+[2025-03-18 06:23:26] info: Loaded command: setup
+[2025-03-18 06:23:26] info: Loaded command: stats
+[2025-03-18 06:23:28] info: Started refreshing 4 application (/) commands...
+[2025-03-18 06:23:28] info: Successfully reloaded 4 application (/) commands.
+[2025-03-18 06:23:28] info: Command deployment completed: 4 commands added, 0 commands removed
+[2025-03-18 06:23:29] info: Logged in as Coders Planet#5171
+[2025-03-18 06:23:29] info: Auto-close check scheduled to run every 1 hour(s)
+[2025-03-18 06:23:29] info: Orphaned ticket cleanup scheduled to run every 2 hour(s)
+[2025-03-18 06:23:29] info: Ready! Logged in as Coders Planet#5171
+[2025-03-18 06:23:29] info: ModMail bot created by Izzy | Coders Planet
+[2025-03-18 06:23:52] info: Updated setting staffRoleId for guild 1349023067254554654
+[2025-03-18 06:23:52] info: Updated setting staffRoleId for guild 1349023067254554654
+[2025-03-18 06:23:53] error: Error setting staff role: Interaction has already been acknowledged.
+[2025-03-18 06:23:53] error: Error handling modal submission: The reply to this interaction has already been sent or deferred.
+[2025-03-18 06:23:53] error: Error handling modal submission modal_staff_role: The reply to this interaction has already been sent or deferred.
+[2025-03-18 06:39:20] info: Loaded command: close
+[2025-03-18 06:39:20] info: Loaded command: help
+[2025-03-18 06:39:20] info: Loaded command: setup
+[2025-03-18 06:39:20] info: Loaded command: stats
+[2025-03-18 06:39:21] info: Started refreshing 4 application (/) commands...
+[2025-03-18 06:39:21] info: Successfully reloaded 4 application (/) commands.
+[2025-03-18 06:39:23] info: Connected to MongoDB database!
+[2025-03-18 06:39:23] info: Auto-deploying commands on startup...
+[2025-03-18 06:39:23] info: Loaded command: close
+[2025-03-18 06:39:23] info: Loaded command: help
+[2025-03-18 06:39:23] info: Loaded command: setup
+[2025-03-18 06:39:23] info: Loaded command: stats
+[2025-03-18 06:39:24] info: Started refreshing 4 application (/) commands...
+[2025-03-18 06:39:24] info: Successfully reloaded 4 application (/) commands.
+[2025-03-18 06:39:24] info: Command deployment completed: 4 commands added, 0 commands removed
+[2025-03-18 06:39:25] info: Logged in as Coders Planet#5171
+[2025-03-18 06:39:25] info: Auto-close check scheduled to run every 1 hour(s)
+[2025-03-18 06:39:25] info: Orphaned ticket cleanup scheduled to run every 2 hour(s)
+[2025-03-18 06:39:25] info: Ready! Logged in as Coders Planet#5171
+[2025-03-18 06:39:25] info: ModMail bot created by Izzy | Coders Planet
+[2025-03-18 06:39:56] error: Error closing ticket: Ticket validation failed: closedBy: Cast to string failed for value "{ id: '1077872684781805569', tag: 'izzy_6.9' }" (type Object) at path "closedBy"
+[2025-03-18 06:39:56] error: Unhandled promise rejection: Interaction has already been acknowledged.
+[2025-03-18 06:41:09] info: Loaded command: close
+[2025-03-18 06:41:09] info: Loaded command: help
+[2025-03-18 06:41:09] info: Loaded command: setup
+[2025-03-18 06:41:09] info: Loaded command: stats
+[2025-03-18 06:41:10] info: Started refreshing 4 application (/) commands...
+[2025-03-18 06:41:10] info: Successfully reloaded 4 application (/) commands.
+[2025-03-18 06:41:12] info: Connected to MongoDB database!
+[2025-03-18 06:41:12] info: Auto-deploying commands on startup...
+[2025-03-18 06:41:12] info: Loaded command: close
+[2025-03-18 06:41:12] info: Loaded command: help
+[2025-03-18 06:41:12] info: Loaded command: setup
+[2025-03-18 06:41:12] info: Loaded command: stats
+[2025-03-18 06:41:13] info: Started refreshing 4 application (/) commands...
+[2025-03-18 06:41:14] info: Successfully reloaded 4 application (/) commands.
+[2025-03-18 06:41:14] info: Command deployment completed: 4 commands added, 0 commands removed
+[2025-03-18 06:41:14] info: Ready! Logged in as Coders Planet#5171
+[2025-03-18 06:41:14] info: ModMail bot created by Izzy | Coders Planet
+[2025-03-18 06:41:14] info: Logged in as Coders Planet#5171
+[2025-03-18 06:41:14] info: Auto-close check scheduled to run every 1 hour(s)
+[2025-03-18 06:41:14] info: Orphaned ticket cleanup scheduled to run every 2 hour(s)
+[2025-03-18 06:41:19] error: Error handling close confirmation: Interaction has already been acknowledged.
+[2025-03-18 06:41:22] error: Error closing ticket: logChannel is not defined
+[2025-03-18 06:42:31] info: Loaded command: close
+[2025-03-18 06:42:31] info: Loaded command: help
+[2025-03-18 06:42:31] info: Loaded command: setup
+[2025-03-18 06:42:31] info: Loaded command: stats
+[2025-03-18 06:42:32] info: Started refreshing 4 application (/) commands...
+[2025-03-18 06:42:33] info: Successfully reloaded 4 application (/) commands.
+[2025-03-18 06:42:35] info: Connected to MongoDB database!
+[2025-03-18 06:42:35] info: Auto-deploying commands on startup...
+[2025-03-18 06:42:35] info: Loaded command: close
+[2025-03-18 06:42:35] info: Loaded command: help
+[2025-03-18 06:42:35] info: Loaded command: setup
+[2025-03-18 06:42:35] info: Loaded command: stats
+[2025-03-18 06:42:36] info: Started refreshing 4 application (/) commands...
+[2025-03-18 06:42:37] info: Successfully reloaded 4 application (/) commands.
+[2025-03-18 06:42:37] info: Command deployment completed: 4 commands added, 0 commands removed
+[2025-03-18 06:42:37] info: Logged in as Coders Planet#5171
+[2025-03-18 06:42:37] info: Auto-close check scheduled to run every 1 hour(s)
+[2025-03-18 06:42:37] info: Orphaned ticket cleanup scheduled to run every 2 hour(s)
+[2025-03-18 06:42:37] info: Ready! Logged in as Coders Planet#5171
+[2025-03-18 06:42:37] info: ModMail bot created by Izzy | Coders Planet
+[2025-03-18 06:42:44] info: Detected deletion of ModMail channel: modmail-izzy-6-9 (1351348917140197456)
+[2025-03-18 06:42:51] info: New ticket created by izzy_6.9 (1077872684781805569) in guild test box (1349023067254554654)
+[2025-03-18 06:43:05] error: Error handling close confirmation: Interaction has already been acknowledged.
+[2025-03-18 06:43:08] info: Ticket 67d8c18a2b95266719363bc2 closed by izzy_6.9 (1077872684781805569)
+[2025-03-18 06:46:10] info: Loaded command: close
+[2025-03-18 06:46:10] info: Loaded command: help
+[2025-03-18 06:46:10] info: Loaded command: setup
+[2025-03-18 06:46:10] info: Loaded command: stats
+[2025-03-18 06:46:11] info: Started refreshing 4 application (/) commands...
+[2025-03-18 06:46:11] info: Successfully reloaded 4 application (/) commands.
+[2025-03-18 06:46:13] info: Connected to MongoDB database!
+[2025-03-18 06:46:13] info: Auto-deploying commands on startup...
+[2025-03-18 06:46:13] info: Loaded command: close
+[2025-03-18 06:46:13] info: Loaded command: help
+[2025-03-18 06:46:13] info: Loaded command: setup
+[2025-03-18 06:46:13] info: Loaded command: stats
+[2025-03-18 06:46:14] info: Started refreshing 4 application (/) commands...
+[2025-03-18 06:46:14] info: Successfully reloaded 4 application (/) commands.
+[2025-03-18 06:46:14] info: Command deployment completed: 4 commands added, 0 commands removed
+[2025-03-18 06:46:15] info: Ready! Logged in as Coders Planet#5171
+[2025-03-18 06:46:15] info: ModMail bot created by Izzy | Coders Planet
+[2025-03-18 06:46:15] info: Logged in as Coders Planet#5171
+[2025-03-18 06:46:15] info: Auto-close check scheduled to run every 1 hour(s)
+[2025-03-18 06:46:15] info: Orphaned ticket cleanup scheduled to run every 2 hour(s)
+[2025-03-18 06:46:19] info: New ticket created by izzy_6.9 (1077872684781805569) in guild test box (1349023067254554654)
+[2025-03-18 06:46:31] error: Error updating confirmation message: Interaction has already been acknowledged.
+[2025-03-18 06:46:34] info: Ticket 67d8c25a08224e97ee21ca8d closed by izzy_6.9 (1077872684781805569)
+[2025-03-18 06:48:03] info: Loaded command: close
+[2025-03-18 06:48:03] info: Loaded command: help
+[2025-03-18 06:48:03] info: Loaded command: setup
+[2025-03-18 06:48:03] info: Loaded command: stats
+[2025-03-18 06:48:03] info: Started refreshing 4 application (/) commands...
+[2025-03-18 06:48:04] info: Successfully reloaded 4 application (/) commands.
+[2025-03-18 06:48:06] info: Connected to MongoDB database!
+[2025-03-18 06:48:06] info: Auto-deploying commands on startup...
+[2025-03-18 06:48:06] info: Loaded command: close
+[2025-03-18 06:48:06] info: Loaded command: help
+[2025-03-18 06:48:06] info: Loaded command: setup
+[2025-03-18 06:48:06] info: Loaded command: stats
+[2025-03-18 06:48:06] info: Started refreshing 4 application (/) commands...
+[2025-03-18 06:48:07] info: Successfully reloaded 4 application (/) commands.
+[2025-03-18 06:48:07] info: Command deployment completed: 4 commands added, 0 commands removed
+[2025-03-18 06:48:07] info: Logged in as Coders Planet#5171
+[2025-03-18 06:48:07] info: Auto-close check scheduled to run every 1 hour(s)
+[2025-03-18 06:48:07] info: Orphaned ticket cleanup scheduled to run every 2 hour(s)
+[2025-03-18 06:48:07] info: Ready! Logged in as Coders Planet#5171
+[2025-03-18 06:48:07] info: ModMail bot created by Izzy | Coders Planet
+[2025-03-18 06:48:12] info: New ticket created by izzy_6.9 (1077872684781805569) in guild test box (1349023067254554654)
+[2025-03-18 06:48:22] error: Error updating confirmation message: Interaction has already been acknowledged.
+[2025-03-18 06:48:24] info: Ticket 67d8c2cb9d01fc5ae4734c7e closed by izzy_6.9 (1077872684781805569)
+[2025-03-18 06:50:21] info: Loaded command: close
+[2025-03-18 06:50:21] info: Loaded command: help
+[2025-03-18 06:50:21] info: Loaded command: setup
+[2025-03-18 06:50:21] info: Loaded command: stats
+[2025-03-18 06:50:21] info: Started refreshing 4 application (/) commands...
+[2025-03-18 06:50:22] info: Successfully reloaded 4 application (/) commands.
+[2025-03-18 06:50:24] info: Connected to MongoDB database!
+[2025-03-18 06:50:24] info: Auto-deploying commands on startup...
+[2025-03-18 06:50:24] info: Loaded command: close
+[2025-03-18 06:50:24] info: Loaded command: help
+[2025-03-18 06:50:24] info: Loaded command: setup
+[2025-03-18 06:50:24] info: Loaded command: stats
+[2025-03-18 06:50:25] info: Started refreshing 4 application (/) commands...
+[2025-03-18 06:50:25] info: Successfully reloaded 4 application (/) commands.
+[2025-03-18 06:50:25] info: Command deployment completed: 4 commands added, 0 commands removed
+[2025-03-18 06:50:26] info: Logged in as Coders Planet#5171
+[2025-03-18 06:50:26] info: Auto-close check scheduled to run every 1 hour(s)
+[2025-03-18 06:50:26] info: Orphaned ticket cleanup scheduled to run every 2 hour(s)
+[2025-03-18 06:50:26] info: Ready! Logged in as Coders Planet#5171
+[2025-03-18 06:50:26] info: ModMail bot created by Izzy | Coders Planet
+[2025-03-18 06:50:32] info: New ticket created by izzy_6.9 (1077872684781805569) in guild test box (1349023067254554654)
+[2025-03-18 06:50:38] error: Failed to disable buttons: Unknown interaction
+[2025-03-18 06:50:41] info: Ticket 67d8c3567d67745c1a21793f closed by izzy_6.9 (1077872684781805569)
+[2025-03-18 06:52:43] info: Loaded command: close
+[2025-03-18 06:52:43] info: Loaded command: help
+[2025-03-18 06:52:43] info: Loaded command: setup
+[2025-03-18 06:52:43] info: Loaded command: stats
+[2025-03-18 06:52:44] info: Started refreshing 4 application (/) commands...
+[2025-03-18 06:52:45] info: Successfully reloaded 4 application (/) commands.
+[2025-03-18 06:52:47] info: Connected to MongoDB database!
+[2025-03-18 06:52:47] info: Auto-deploying commands on startup...
+[2025-03-18 06:52:47] info: Loaded command: close
+[2025-03-18 06:52:47] info: Loaded command: help
+[2025-03-18 06:52:47] info: Loaded command: setup
+[2025-03-18 06:52:47] info: Loaded command: stats
+[2025-03-18 06:52:48] info: Started refreshing 4 application (/) commands...
+[2025-03-18 06:52:48] info: Logged in as Coders Planet#5171
+[2025-03-18 06:52:48] info: Auto-close check scheduled to run every 1 hour(s)
+[2025-03-18 06:52:48] info: Orphaned ticket cleanup scheduled to run every 2 hour(s)
+[2025-03-18 06:52:48] info: Ready! Logged in as Coders Planet#5171
+[2025-03-18 06:52:48] info: ModMail bot created by Izzy | Coders Planet
+[2025-03-18 06:52:48] info: Successfully reloaded 4 application (/) commands.
+[2025-03-18 06:52:48] info: Command deployment completed: 4 commands added, 0 commands removed
+[2025-03-18 06:52:54] info: New ticket created by izzy_6.9 (1077872684781805569) in guild test box (1349023067254554654)
+[2025-03-18 06:53:00] error: Failed to disable buttons: Interaction has already been acknowledged.
+[2025-03-18 06:53:02] info: Ticket 67d8c3e5aeea65ac494e7e7e closed by izzy_6.9 (1077872684781805569)
+[2025-03-18 06:53:08] info: Detected deletion of ModMail channel: modmail-izzy-6-9 (1351357673559556116)
+[2025-03-18 06:53:08] info: Ticket channel 1351357673559556116 deleted after closure
+[2025-03-18 06:53:54] info: Loaded command: close
+[2025-03-18 06:53:54] info: Loaded command: help
+[2025-03-18 06:53:54] info: Loaded command: setup
+[2025-03-18 06:53:54] info: Loaded command: stats
+[2025-03-18 06:53:55] info: Started refreshing 4 application (/) commands...
+[2025-03-18 06:53:55] info: Successfully reloaded 4 application (/) commands.
+[2025-03-18 06:53:57] info: Connected to MongoDB database!
+[2025-03-18 06:53:57] info: Auto-deploying commands on startup...
+[2025-03-18 06:53:57] info: Loaded command: close
+[2025-03-18 06:53:57] info: Loaded command: help
+[2025-03-18 06:53:57] info: Loaded command: setup
+[2025-03-18 06:53:57] info: Loaded command: stats
+[2025-03-18 06:53:58] info: Started refreshing 4 application (/) commands...
+[2025-03-18 06:53:58] info: Successfully reloaded 4 application (/) commands.
+[2025-03-18 06:53:58] info: Command deployment completed: 4 commands added, 0 commands removed
+[2025-03-18 06:53:59] info: Logged in as Coders Planet#5171
+[2025-03-18 06:53:59] info: Auto-close check scheduled to run every 1 hour(s)
+[2025-03-18 06:53:59] info: Orphaned ticket cleanup scheduled to run every 2 hour(s)
+[2025-03-18 06:53:59] info: Ready! Logged in as Coders Planet#5171
+[2025-03-18 06:53:59] info: ModMail bot created by Izzy | Coders Planet
+[2025-03-18 06:57:41] info: Loaded command: close
+[2025-03-18 06:57:41] info: Loaded command: help
+[2025-03-18 06:57:41] info: Loaded command: setup
+[2025-03-18 06:57:41] info: Loaded command: stats
+[2025-03-18 06:57:42] info: Started refreshing 4 application (/) commands...
+[2025-03-18 06:57:42] info: Successfully reloaded 4 application (/) commands.
+[2025-03-18 06:57:44] info: Connected to MongoDB database!
+[2025-03-18 06:57:44] info: Auto-deploying commands on startup...
+[2025-03-18 06:57:44] info: Loaded command: close
+[2025-03-18 06:57:44] info: Loaded command: help
+[2025-03-18 06:57:44] info: Loaded command: setup
+[2025-03-18 06:57:44] info: Loaded command: stats
+[2025-03-18 06:57:45] info: Started refreshing 4 application (/) commands...
+[2025-03-18 06:57:46] info: Successfully reloaded 4 application (/) commands.
+[2025-03-18 06:57:46] info: Command deployment completed: 4 commands added, 0 commands removed
+[2025-03-18 06:57:46] info: Logged in as Coders Planet#5171
+[2025-03-18 06:57:46] info: Auto-close check scheduled to run every 1 hour(s)
+[2025-03-18 06:57:46] info: Orphaned ticket cleanup scheduled to run every 2 hour(s)
+[2025-03-18 06:57:46] info: Ready! Logged in as Coders Planet#5171
+[2025-03-18 06:57:46] info: ModMail bot created by Izzy | Coders Planet
