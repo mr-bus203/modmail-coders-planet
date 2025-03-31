@@ -25,7 +25,7 @@ A professional Discord ModMail bot that allows users to privately message staff 
 1. **Clone the repository**
    ```bash
    git clone https://github.com/IzzyTheBuilder/modmail-coders-planet
-   cd discord-modmail-bot
+   cd modmail-coders-planet
    ```
 
 2. **Install dependencies**
