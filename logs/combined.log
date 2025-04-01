@@ -480,3 +480,75 @@
 [2025-03-18 06:57:46] info: Orphaned ticket cleanup scheduled to run every 2 hour(s)
 [2025-03-18 06:57:46] info: Ready! Logged in as Coders Planet#5171
 [2025-03-18 06:57:46] info: ModMail bot created by Izzy | Coders Planet
+[2025-04-01 06:04:57] info: Loaded command: close
+[2025-04-01 06:04:57] info: Loaded command: help
+[2025-04-01 06:04:57] info: Loaded command: setup
+[2025-04-01 06:04:57] info: Loaded command: stats
+[2025-04-01 06:04:57] error: Error deploying commands: 401: Unauthorized
+[2025-04-01 06:08:21] info: Loaded command: close
+[2025-04-01 06:08:21] info: Loaded command: help
+[2025-04-01 06:08:21] info: Loaded command: setup
+[2025-04-01 06:08:21] info: Loaded command: stats
+[2025-04-01 06:08:22] info: Started refreshing 4 application (/) commands...
+[2025-04-01 06:08:23] info: Successfully reloaded 4 application (/) commands.
+[2025-04-01 06:08:26] info: Connected to MongoDB database!
+[2025-04-01 06:08:26] info: Auto-deploying commands on startup...
+[2025-04-01 06:08:26] info: Loaded command: close
+[2025-04-01 06:08:26] info: Loaded command: help
+[2025-04-01 06:08:26] info: Loaded command: setup
+[2025-04-01 06:08:26] info: Loaded command: stats
+[2025-04-01 06:08:26] info: Started refreshing 4 application (/) commands...
+[2025-04-01 06:08:27] error: Error logging in to Discord: Used disallowed intents
+[2025-04-01 06:08:29] info: Successfully reloaded 4 application (/) commands.
+[2025-04-01 06:08:29] info: Command deployment completed: 4 commands added, 0 commands removed
+[2025-04-01 06:08:51] info: Loaded command: close
+[2025-04-01 06:08:51] info: Loaded command: help
+[2025-04-01 06:08:51] info: Loaded command: setup
+[2025-04-01 06:08:51] info: Loaded command: stats
+[2025-04-01 06:08:51] info: Started refreshing 4 application (/) commands...
+[2025-04-01 06:09:24] info: Successfully reloaded 4 application (/) commands.
+[2025-04-01 06:09:25] info: Connected to MongoDB database!
+[2025-04-01 06:09:25] info: Auto-deploying commands on startup...
+[2025-04-01 06:09:25] info: Loaded command: close
+[2025-04-01 06:09:25] info: Loaded command: help
+[2025-04-01 06:09:25] info: Loaded command: setup
+[2025-04-01 06:09:25] info: Loaded command: stats
+[2025-04-01 06:09:26] info: Started refreshing 4 application (/) commands...
+[2025-04-01 06:09:26] info: Successfully reloaded 4 application (/) commands.
+[2025-04-01 06:09:26] info: Command deployment completed: 4 commands added, 0 commands removed
+[2025-04-01 06:09:27] error: Error logging in to Discord: Used disallowed intents
+[2025-04-01 06:10:39] info: Loaded command: close
+[2025-04-01 06:10:39] info: Loaded command: help
+[2025-04-01 06:10:39] info: Loaded command: setup
+[2025-04-01 06:10:39] info: Loaded command: stats
+[2025-04-01 06:10:40] info: Started refreshing 4 application (/) commands...
+[2025-04-01 06:10:40] info: Successfully reloaded 4 application (/) commands.
+[2025-04-01 06:10:42] info: Connected to MongoDB database!
+[2025-04-01 06:10:42] info: Auto-deploying commands on startup...
+[2025-04-01 06:10:42] info: Loaded command: close
+[2025-04-01 06:10:42] info: Loaded command: help
+[2025-04-01 06:10:42] info: Loaded command: setup
+[2025-04-01 06:10:42] info: Loaded command: stats
+[2025-04-01 06:10:43] info: Started refreshing 4 application (/) commands...
+[2025-04-01 06:10:43] info: Successfully reloaded 4 application (/) commands.
+[2025-04-01 06:10:43] info: Command deployment completed: 4 commands added, 0 commands removed
+[2025-04-01 06:10:43] error: Error logging in to Discord: Used disallowed intents
+[2025-04-01 06:11:35] info: Loaded command: close
+[2025-04-01 06:11:35] info: Loaded command: help
+[2025-04-01 06:11:35] info: Loaded command: setup
+[2025-04-01 06:11:35] info: Loaded command: stats
+[2025-04-01 06:11:35] info: Started refreshing 4 application (/) commands...
+[2025-04-01 06:11:36] info: Successfully reloaded 4 application (/) commands.
+[2025-04-01 06:11:38] info: Connected to MongoDB database!
+[2025-04-01 06:11:38] info: Auto-deploying commands on startup...
+[2025-04-01 06:11:38] info: Loaded command: close
+[2025-04-01 06:11:38] info: Loaded command: help
+[2025-04-01 06:11:38] info: Loaded command: setup
+[2025-04-01 06:11:38] info: Loaded command: stats
+[2025-04-01 06:11:38] info: Started refreshing 4 application (/) commands...
+[2025-04-01 06:11:39] info: Ready! Logged in as bot1356419664057733240#4425
+[2025-04-01 06:11:39] info: ModMail bot created by Izzy | Coders Planet
+[2025-04-01 06:11:39] info: Logged in as bot1356419664057733240#4425
+[2025-04-01 06:11:39] info: Auto-close check scheduled to run every 1 hour(s)
+[2025-04-01 06:11:39] info: Orphaned ticket cleanup scheduled to run every 2 hour(s)
+[2025-04-01 06:11:39] info: Website is running on port 3000

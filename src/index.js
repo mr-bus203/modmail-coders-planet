@@ -4,6 +4,21 @@ const fs = require('fs');
 const path = require('path');
 const mongoose = require('mongoose');
 const logger = require('./utils/logger');
+const express = require('express');
+const app = express();
+
+// Express configuration
+app.set('view engine', 'ejs');
+app.set('views', path.join(__dirname, 'views'));
+app.use(express.static(path.join(__dirname, 'public')));
+
+// Website routes
+app.get('/', (req, res) => {
+  res.render('index', { 
+    title: 'ModMail Bot',
+    botStatus: client?.user?.presence?.status || 'offline'
+  });
+});
 
 // Import command deployment function (optional use)
 const deployCommands = require('./deploy-commands');
@@ -94,6 +109,12 @@ client.login(process.env.TOKEN)
   .then(() => {
     logger.info(`Logged in as ${client.user.tag}`);
     
+    // Start Express server
+    const PORT = process.env.PORT || 3000;
+    app.listen(PORT, () => {
+      logger.info(`Website is running on port ${PORT}`);
+    });
+    
     // Set up auto-close interval
     const autoCloseIntervalHours = 1; // Check every hour
     const autoCloseInterval = autoCloseIntervalHours * 60 * 60 * 1000;
@@ -136,4 +157,4 @@ client.login(process.env.TOKEN)
   })
   .catch(error => {
     logger.error('Error logging in to Discord:', error);
-  }); 
+  });

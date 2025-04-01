@@ -16,3 +16,7 @@
 [2025-03-18 06:48:22] error: Error updating confirmation message: Interaction has already been acknowledged.
 [2025-03-18 06:50:38] error: Failed to disable buttons: Unknown interaction
 [2025-03-18 06:53:00] error: Failed to disable buttons: Interaction has already been acknowledged.
+[2025-04-01 06:04:57] error: Error deploying commands: 401: Unauthorized
+[2025-04-01 06:08:27] error: Error logging in to Discord: Used disallowed intents
+[2025-04-01 06:09:27] error: Error logging in to Discord: Used disallowed intents
+[2025-04-01 06:10:43] error: Error logging in to Discord: Used disallowed intents
