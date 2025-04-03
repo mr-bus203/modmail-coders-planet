@@ -1,9 +1,10 @@
 module.exports = {
   prefix: process.env.PREFIX || '!',
   embedColor: '#5865F2', // Discord Blurple
-  footer: 'Made by Izzy | Coders Planet',
+  footer: 'White Horse Support Systems',
   statusMessages: {
     online: 'DM me to create a ticket!',
+    online: 'White Horse Systems',
     idle: 'Watching for new ModMail tickets'
   },
   cooldowns: {
@@ -23,7 +24,7 @@ module.exports = {
     }
   },
   credits: {
-    name: 'Izzy | Coders Planet',
-    website: 'https://discord.gg/codersplanet'
+    name: 'White Horse Systems',
+    website: 'https://discord.gg/mjuDxavUBJ'
   }
 }; 
